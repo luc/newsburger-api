@@ -14,6 +14,9 @@ News
 
 ### `GET /v2/news/666.json`
 
+### `GET /v2/feeds/666/news.json`
+
+
 
 **Status Codes**
 
