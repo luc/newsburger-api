@@ -1,9 +1,6 @@
 News
 =====
 
-Get News
---------
-
 ### `GET /v2/news.json`
 
 | Parameter                       | Required | Example                                                                                                                                           |
