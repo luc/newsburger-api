@@ -13,6 +13,7 @@ News
 | `category: string`              | false    | `GET /v2/news.json?category=Politics`  will get all news of category politics.|
 | `feeds: string`                | false    | `GET /v2/news.json?feeds=1,2,3`  will get all news of feeds 1, 2 and 3.
 | `url: string`              | false    | `GET /v2/news.json?url=http://www.rtl.lu/1`  will get news 1.|
+| `filter: string`              | false    | `GET /v2/news.json?filter=hot`  will get hot news.|
 
 ### `GET /v2/news/666.json`
 
